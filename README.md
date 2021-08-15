@@ -18,7 +18,7 @@
 - The result will render on webpage using API.
 
 ## Repo Link:
-
+https://github.com/Anum23432/NewsApp.github.io
 
 
 ## Live link
